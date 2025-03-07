@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "remoteURL": "https://github.com/microchipgnu/vibestream",
+=======
   "remoteURL": "git@github.com:microchipgnu/vibestream.git",
+>>>>>>> 9f805ed760591986d1c418a93e62030d499fca2b
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": false
