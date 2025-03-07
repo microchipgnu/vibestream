@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vibe Stream.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vibe Stream"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "328dd1c69335d90f",
   "lastOpenFiles": [
     "Untitled.md",
-    "Vibe Stream.md",
-    "README.md"
+    "README.md",
+    "Vibe Stream.md"
   ]
 }
