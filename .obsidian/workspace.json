@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "baa9c10670a8ba61",
+        "id": "437f16dbc7c4e100",
         "type": "tabs",
         "children": [
           {
-            "id": "328dd1c69335d90f",
+            "id": "b1efa26f1be4607c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "328dd1c69335d90f",
+  "active": "b1efa26f1be4607c",
   "lastOpenFiles": [
+    "Vibe Stream.md",
     "README.md",
-    "Untitled.md",
-    "Vibe Stream.md"
+    "Untitled.md"
   ]
 }
