@@ -106,4 +106,4 @@ pip-delete-this-directory.txt
 *.css.map
 *.sass.map
 *.scss.map
-.svelte-kit 
+.svelte-kit
