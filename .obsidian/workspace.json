@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro/README.md",
+                "file": "Micro/Logs/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -257,10 +257,10 @@
   },
   "active": "ecd3c8b1e3d7e2fc",
   "lastOpenFiles": [
+    "Micro/Logs/2025-03-10.md",
+    "Micro/Logs/README.md",
     "Micro/README.md",
     "Micro/Logs.md",
-    "Micro/Logs/README.md",
-    "Micro/Logs/2025-03-10.md",
     "Live/Vibestream TOS & Binding Agreement.md",
     "Micro/Logs",
     "Micro/Personal Goals.md",
