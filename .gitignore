@@ -52,8 +52,6 @@ coverage/
 jest-report/
 .jest-cache/
 
-# Logs
-logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
