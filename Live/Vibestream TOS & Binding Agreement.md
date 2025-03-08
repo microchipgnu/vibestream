@@ -14,7 +14,6 @@
 **Hardware**
 - Web cam ?
 - Mic ?
-- 
 
 ## Challenge / Project Ideas
 - Minecraft / sandbox game
