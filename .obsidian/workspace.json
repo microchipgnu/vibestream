@@ -11,16 +11,13 @@
             "id": "8e133a8d3c6dbccc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Micro/Logs/2025-03-10.canvas",
-                "viewState": {
-                  "x": -260.35450124458293,
-                  "y": -343.6092190915016,
-                  "zoom": -0.8385090015370488
-                }
+                "file": "Micro/Logs/2025-03-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "2025-03-10"
             }
           }
