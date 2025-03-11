@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"7ee590710c061000","type":"text","text":"## MCP Server\n\nWill know how to reach Agents and Tools","x":-520,"y":-260,"width":250,"height":210,"color":"1"},
+		{"id":"032d88adf5486c10","type":"text","text":"## MCP Client (Cursor)\n\n1. Reach Tools\n2. Reach Agents","x":-1140,"y":-255,"width":370,"height":200},
+		{"id":"85e50e7cf6d3a85b","type":"text","text":"**What we are building today**","x":-535,"y":-330,"width":280,"height":50,"color":"1"},
+		{"id":"c2f050d9efed0d14","type":"text","text":"WTVR API","x":-80,"y":-185,"width":250,"height":60},
+		{"id":"70d25eb088583a28","type":"text","text":"## Bitte.ai Runtime\n\n[https://ai-runtime-446257178793.europe-west1.run.app/chat](https://ai-runtime-446257178793.europe-west1.run.app/chat)\n","x":-80,"y":-425,"width":440,"height":140},
+		{"id":"1451adcbabfb444f","type":"text","text":"Natively integrated tools/agents","x":-80,"y":20,"width":250,"height":60},
+		{"id":"6916f92eed850db5","type":"text","text":"## Registry\n\nhttps://registry.bitte.ai\n","x":540,"y":-400,"width":260,"height":90},
+		{"id":"d676b5e28a6f97be","type":"text","text":"OpenAPI Agents","x":880,"y":-460,"width":250,"height":60},
+		{"id":"89359f1f17434b5b","type":"text","text":"OpenAPI Tools","x":880,"y":-330,"width":250,"height":60},
+		{"id":"6f0277170c331b91","x":-1140,"y":-941,"width":420,"height":80,"type":"text","text":"# \"Swap 1 USDC for 1 ETH\""},
+		{"id":"61501fac851ff31a","x":-80,"y":-982,"width":440,"height":163,"type":"text","text":"1. take input\n2. send that over to agent id\n3. resolve request\n4. send the response back to the user"},
+		{"id":"06ed118c645c9d1f","x":-562,"y":-976,"width":335,"height":151,"type":"text","text":"1. Get a list of agents\n2. Figure out which one is suitable for the request\n3. Get Agent Id\n4. Send a message to that agent"},
+		{"id":"246faee762450dcf","x":-1140,"y":-1100,"width":280,"height":60,"type":"text","text":"# Swap User Flow"}
+	],
+	"edges":[
+		{"id":"9e4941dccbac7626","fromNode":"70d25eb088583a28","fromSide":"right","toNode":"6916f92eed850db5","toSide":"left"},
+		{"id":"5e0ec0cd711279ab","fromNode":"6916f92eed850db5","fromSide":"right","toNode":"d676b5e28a6f97be","toSide":"left"},
+		{"id":"edbcb75c9de2fedd","fromNode":"6916f92eed850db5","fromSide":"right","toNode":"89359f1f17434b5b","toSide":"left"},
+		{"id":"c8bdd199f5fccf7e","fromNode":"7ee590710c061000","fromSide":"right","toNode":"70d25eb088583a28","toSide":"left"},
+		{"id":"ebbd4f9804e95a03","fromNode":"7ee590710c061000","fromSide":"right","toNode":"c2f050d9efed0d14","toSide":"left"},
+		{"id":"09d486c486271b30","fromNode":"032d88adf5486c10","fromSide":"right","toNode":"7ee590710c061000","toSide":"left"},
+		{"id":"aa9e8a1ebaab0980","fromNode":"7ee590710c061000","fromSide":"right","toNode":"1451adcbabfb444f","toSide":"left"},
+		{"id":"04277c96648d39a0","fromNode":"6f0277170c331b91","fromSide":"right","toNode":"06ed118c645c9d1f","toSide":"left"},
+		{"id":"e1aa940b62fc4772","fromNode":"06ed118c645c9d1f","fromSide":"right","toNode":"61501fac851ff31a","toSide":"left"},
+		{"id":"51de9d140f34f141","fromNode":"61501fac851ff31a","fromSide":"left","toNode":"06ed118c645c9d1f","toSide":"right"},
+		{"id":"13b12bbe563855b4","fromNode":"06ed118c645c9d1f","fromSide":"left","toNode":"6f0277170c331b91","toSide":"right"}
+	]
+}
