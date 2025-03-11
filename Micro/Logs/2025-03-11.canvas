@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0aeec15f6dd4372b","x":-520,"y":-40,"width":250,"height":100,"type":"text","text":"MCP Client (Cursor)"},
+		{"id":"b54383907f49b3b2","x":-60,"y":-80,"width":250,"height":180,"type":"text","text":"https://registry.bitte.ai\n\nNextJS Project\n\n- REST API\n- (WIP) MCP Server"},
+		{"id":"0c75e42f47adfc42","x":-85,"y":140,"width":300,"height":80,"color":"2","type":"text","text":"1. /sse connection?\n2. **/message (NOT YET)**"},
+		{"id":"5b8bb60ae8005d79","type":"text","text":"Started with https://vercel.com/templates/other/model-context-protocol-mcp-with-vercel-functions","x":-167,"y":-220,"width":465,"height":80,"color":"1"}
+	],
+	"edges":[
+		{"id":"173cc812833a2a61","fromNode":"0aeec15f6dd4372b","fromSide":"right","toNode":"b54383907f49b3b2","toSide":"left"}
+	]
+}
